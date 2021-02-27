@@ -1,4 +1,3 @@
-import sorting
 # Ask for cities
 def main_function():
 	input("Choose 3 Cities, type Yes to continue ")
